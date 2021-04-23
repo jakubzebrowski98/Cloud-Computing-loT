@@ -1,0 +1,17 @@
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp\PeopleAccountApp\bin\Debug\netstandard2.0\PeopleAccountApp.deps.json
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp\PeopleAccountApp\bin\Debug\netstandard2.0\PeopleAccountApp.dll
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp\PeopleAccountApp\bin\Debug\netstandard2.0\ref\PeopleAccountApp.dll
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp\PeopleAccountApp\bin\Debug\netstandard2.0\PeopleAccountApp.pdb
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp\PeopleAccountApp\bin\Debug\netstandard2.0\PeopleAccountApp.DataContracts.dll
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp\PeopleAccountApp\bin\Debug\netstandard2.0\PeopleAccountApp.DataContracts.pdb
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp\PeopleAccountApp\obj\Debug\netstandard2.0\PeopleAccountApp.csprojAssemblyReference.cache
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp\PeopleAccountApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp\PeopleAccountApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp\PeopleAccountApp\obj\Debug\netstandard2.0\PeopleAccountApp.AssemblyInfoInputs.cache
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp\PeopleAccountApp\obj\Debug\netstandard2.0\PeopleAccountApp.AssemblyInfo.cs
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp\PeopleAccountApp\obj\Debug\netstandard2.0\PeopleAccountApp.csproj.CoreCompileInputs.cache
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp\PeopleAccountApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp\PeopleAccountApp\obj\Debug\netstandard2.0\PeopleAccountApp.csproj.CopyComplete
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp\PeopleAccountApp\obj\Debug\netstandard2.0\PeopleAccountApp.dll
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp\PeopleAccountApp\obj\Debug\netstandard2.0\ref\PeopleAccountApp.dll
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp\PeopleAccountApp\obj\Debug\netstandard2.0\PeopleAccountApp.pdb

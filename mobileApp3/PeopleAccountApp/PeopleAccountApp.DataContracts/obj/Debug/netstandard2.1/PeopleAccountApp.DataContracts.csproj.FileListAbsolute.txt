@@ -1,0 +1,9 @@
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp.DataContracts\bin\Debug\netstandard2.1\PeopleAccountApp.DataContracts.deps.json
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp.DataContracts\bin\Debug\netstandard2.1\PeopleAccountApp.DataContracts.dll
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp.DataContracts\bin\Debug\netstandard2.1\PeopleAccountApp.DataContracts.pdb
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp.DataContracts\obj\Debug\netstandard2.1\PeopleAccountApp.DataContracts.csprojAssemblyReference.cache
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp.DataContracts\obj\Debug\netstandard2.1\PeopleAccountApp.DataContracts.AssemblyInfoInputs.cache
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp.DataContracts\obj\Debug\netstandard2.1\PeopleAccountApp.DataContracts.AssemblyInfo.cs
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp.DataContracts\obj\Debug\netstandard2.1\PeopleAccountApp.DataContracts.csproj.CoreCompileInputs.cache
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp.DataContracts\obj\Debug\netstandard2.1\PeopleAccountApp.DataContracts.dll
+C:\Users\ZBIK133\source\repos\PeopleAccountApp\PeopleAccountApp.DataContracts\obj\Debug\netstandard2.1\PeopleAccountApp.DataContracts.pdb

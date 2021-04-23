@@ -1,0 +1,60 @@
+{
+  "runtimeTarget": {
+    "name": ".NETStandard,Version=v2.1/",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETStandard,Version=v2.1": {},
+    ".NETStandard,Version=v2.1/": {
+      "PeopleAccountApp.DataContracts/1.0.0": {
+        "dependencies": {
+          "RestEase": "1.5.4"
+        },
+        "runtime": {
+          "PeopleAccountApp.DataContracts.dll": {}
+        }
+      },
+      "Newtonsoft.Json/11.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.1.21818"
+          }
+        }
+      },
+      "RestEase/1.5.4": {
+        "dependencies": {
+          "Newtonsoft.Json": "11.0.1"
+        },
+        "runtime": {
+          "lib/netstandard2.1/RestEase.dll": {
+            "assemblyVersion": "1.5.4.0",
+            "fileVersion": "1.5.4.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PeopleAccountApp.DataContracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Newtonsoft.Json/11.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pNN4l+J6LlpIvHOeNdXlwxv39NPJ2B5klz+Rd2UQZIx30Squ5oND1Yy3wEAUoKn0GPUj6Yxt9lxlYWQqfZcvKg==",
+      "path": "newtonsoft.json/11.0.1",
+      "hashPath": "newtonsoft.json.11.0.1.nupkg.sha512"
+    },
+    "RestEase/1.5.4": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-PG3jpzeRAu6GQ+u+8vlhfrbruJkYgdo0Z58PBFa9P9jaO9GpYUe+R49N6CQInC/tcp5vGZ8xSZCw0+SIfQXmPA==",
+      "path": "restease/1.5.4",
+      "hashPath": "restease.1.5.4.nupkg.sha512"
+    }
+  }
+}
