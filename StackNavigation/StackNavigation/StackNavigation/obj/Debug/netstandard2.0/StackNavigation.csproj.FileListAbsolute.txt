@@ -1,0 +1,16 @@
+C:\Users\ZBIK133\source\repos\StackNavigation\StackNavigation\StackNavigation\bin\Debug\netstandard2.0\StackNavigation.deps.json
+C:\Users\ZBIK133\source\repos\StackNavigation\StackNavigation\StackNavigation\bin\Debug\netstandard2.0\StackNavigation.dll
+C:\Users\ZBIK133\source\repos\StackNavigation\StackNavigation\StackNavigation\bin\Debug\netstandard2.0\ref\StackNavigation.dll
+C:\Users\ZBIK133\source\repos\StackNavigation\StackNavigation\StackNavigation\bin\Debug\netstandard2.0\StackNavigation.pdb
+C:\Users\ZBIK133\source\repos\StackNavigation\StackNavigation\StackNavigation\obj\Debug\netstandard2.0\StackNavigation.csprojAssemblyReference.cache
+C:\Users\ZBIK133\source\repos\StackNavigation\StackNavigation\StackNavigation\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ZBIK133\source\repos\StackNavigation\StackNavigation\StackNavigation\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ZBIK133\source\repos\StackNavigation\StackNavigation\StackNavigation\obj\Debug\netstandard2.0\StackNavigation.AssemblyInfoInputs.cache
+C:\Users\ZBIK133\source\repos\StackNavigation\StackNavigation\StackNavigation\obj\Debug\netstandard2.0\StackNavigation.AssemblyInfo.cs
+C:\Users\ZBIK133\source\repos\StackNavigation\StackNavigation\StackNavigation\obj\Debug\netstandard2.0\StackNavigation.csproj.CoreCompileInputs.cache
+C:\Users\ZBIK133\source\repos\StackNavigation\StackNavigation\StackNavigation\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ZBIK133\source\repos\StackNavigation\StackNavigation\StackNavigation\obj\Debug\netstandard2.0\StackNavigation.dll
+C:\Users\ZBIK133\source\repos\StackNavigation\StackNavigation\StackNavigation\obj\Debug\netstandard2.0\ref\StackNavigation.dll
+C:\Users\ZBIK133\source\repos\StackNavigation\StackNavigation\StackNavigation\obj\Debug\netstandard2.0\StackNavigation.pdb
+C:\Users\ZBIK133\source\repos\StackNavigation\StackNavigation\StackNavigation\obj\Debug\netstandard2.0\page\AboutAss.xaml.g.cs
+C:\Users\ZBIK133\source\repos\StackNavigation\StackNavigation\StackNavigation\obj\Debug\netstandard2.0\page\Contact.xaml.g.cs
