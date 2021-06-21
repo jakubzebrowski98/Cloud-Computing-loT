@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "F6vfmxm63RgSsLUEBFJNZEtc4vP98cnRujEdRS6umcuOvYRhcn4nBpIWtRECWqGacnR9UaybcFWdrClMjU3ANA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ZBIK133\\source\\repos\\Cloud-Computing-IoT\\Lab5 - mobile apps\\ChatApp.Web\\ChatApp.DTO\\ChatApp.DTO.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ZBIK133\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\ZBIK133\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
